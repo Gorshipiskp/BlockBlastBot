@@ -2,6 +2,7 @@
 
 This is a **quick-and-dirty bot** I wrote in just **two days** (because of a bet).  
 It plays the mobile game **BlockBlast** automatically by detecting the screen, recognizing pieces, and moving them with the mouse.
+(You need to connect your phone to PC with android devtools)
 
 ⚠️ **Disclaimer:**  
 - This is just a **working MVP**, not a polished project.  
@@ -61,3 +62,4 @@ If you want to run it:
 ## License
 
 Do whatever you want with this. Just know it’s messy MVP code.
+
